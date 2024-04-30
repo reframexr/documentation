@@ -164,9 +164,9 @@ of the Site or the Content contained therein.
 - Use a buying agent or purchasing agent to make purchases on the Site.
 
 - Make any unauthorized use of the Site, including collecting usernames
-  > or email addresses of users by electronic or other means for the
-  > purpose of sending unsolicited email, or creating user accounts by
-  > automated means or under false pretenses.
+or email addresses of users by electronic or other means for the
+purpose of sending unsolicited email, or creating user accounts by
+automated means or under false pretenses.
 
 - Use the Site as part of any effort to compete with us or otherwise use
   the Site or the Content for any revenue-generating endeavor or
