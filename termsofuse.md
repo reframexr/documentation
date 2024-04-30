@@ -1,4 +1,8 @@
-**<span class="smallcaps">TERMS OF USE</span>**
+---
+title: Reframe > Terms of Use
+---
+
+# Terms of Use
 
 **Last updated April 24, 2024**
 
