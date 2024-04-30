@@ -1,6 +1,8 @@
 ---
-title: Privacy Policy
+title: Reframe > Privacy Policy
 ---
+
+# Privacy Policy
 
 Thank you for choosing to be part of our community at ReframeXR, Inc.
 (“**Company**,” “**we**,” “**us**,” or “**our**”). We are committed to
